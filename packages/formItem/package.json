@@ -1,5 +1,5 @@
 {
-  "name": "lg-formitem",
+  "name": "gw-formitem",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -11,5 +11,6 @@
   "license": "MIT",
   "dependencies": {
     "async-validator": "^3.5.1"
-  }
+  },
+  "gitHead": "e62699954514d859eb9059bbcf533ac2c6be5992"
 }
